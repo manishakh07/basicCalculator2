@@ -1,9 +1,10 @@
+/* initially margin and padding are reset*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
+/*body is given the appropriate styling*/
 body {
     display: flex;
     justify-content: center;
@@ -46,7 +47,7 @@ body {
     outline: none;
     background-color: #ffffff;
 }
-
+/* buttons are given display as grid */
 .buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -63,7 +64,7 @@ body {
     cursor: pointer;
     transition: background-color 0.3s;
 }
-
+/* hovering of the button for interactivity*/
 .btn:hover {
     background-color: #3700a4;
 }
