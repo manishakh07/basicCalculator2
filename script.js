@@ -1,3 +1,4 @@
+// all the required element are accessed
 document.addEventListener('DOMContentLoaded', function() {
     const display = document.getElementById('display');
     const buttons = document.querySelectorAll('.btn');
