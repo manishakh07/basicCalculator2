@@ -1,9 +1,5 @@
-# basicCalculator2
-Here's a README file tailored for the GitHub repository of your calculator project:
 
----
-
-# Calculator 🧮
+# Basic Calculator 🧮
 
 ## Overview
 
